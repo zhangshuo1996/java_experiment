@@ -1,0 +1,235 @@
+INFO pool-1-thread-2 multi_thread.AtomicTest - execute
+INFO main multi_thread.AtomicTest - isHappened:{}true
+INFO pool-1-thread-2 multi_thread.AtomicTest - ---------------my execute
+INFO main multi_thread.AtomicTest - --------------isHappened:{}true
+INFO main multi_thread.AtomicTest - test1 {} - {}00
+INFO main multi_thread.AtomicTest - test1 {} - {}01
+INFO main multi_thread.AtomicTest - test1 {} - {}02
+INFO main multi_thread.AtomicTest - test1 {} - {}03
+INFO main multi_thread.AtomicTest - test1 {} - {}04
+INFO main multi_thread.AtomicTest - test1 {} - {}05
+INFO main multi_thread.AtomicTest - test1 {} - {}06
+INFO main multi_thread.AtomicTest - test1 {} - {}07
+INFO main multi_thread.AtomicTest - test1 {} - {}08
+INFO main multi_thread.AtomicTest - test1 {} - {}09
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}10
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}11
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}10
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}12
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}11
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}13
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}12
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}13
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}14
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}14
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}15
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}15
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}16
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}16
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}17
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}17
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}18
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}19
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}18
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 {} - {}19
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}20
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}21
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}22
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}23
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}24
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}10
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}25
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}26
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}11
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}27
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}12
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}28
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}13
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 {} - {}29
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}14
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}20
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}15
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}21
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}22
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}16
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}17
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}18
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}23
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}24
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}25
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}26
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}27
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}28
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}29
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 {} - {}19
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}20
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}21
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}22
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}23
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}24
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}25
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}26
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}27
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}28
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 {} - {}29
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  0
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}10
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}11
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  1
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}12
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  2
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}13
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  3
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}14
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  4
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}15
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  5
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}16
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  6
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}17
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  7
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}18
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  8
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 {} - {}19
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  9
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  0
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  1
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  0
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  2
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  1
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  2
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  3
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  4
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  3
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  4
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  5
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  5
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  6
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  7
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  8
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  9
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  0
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  1
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  6
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  2
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  7
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  3
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  8
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  4
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  5
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  6
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  9
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}20
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}21
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  7
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}22
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  8
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}23
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  9
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}24
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}25
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}26
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}27
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}28
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 {} - {}29
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  0
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  0
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  1
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  1
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  2
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  2
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  3
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  3
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  4
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  4
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  5
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  5
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  6
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  6
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  7
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  7
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  8
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  8
+INFO pool-1-thread-1 multi_thread.AtomicTest - test1 -  1  -  9
+INFO pool-1-thread-3 multi_thread.AtomicTest - test2 -  1  -  9
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  0
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  1
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  0
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  2
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  1
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  3
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  2
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  4
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  3
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  5
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  4
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  6
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  5
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  7
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  6
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  8
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  7
+INFO pool-1-thread-5 multi_thread.AtomicTest - test1 -  1  -  9
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  8
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  0
+INFO pool-1-thread-6 multi_thread.AtomicTest - test1 -  2  -  9
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  1
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  0
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  2
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  1
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  3
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  2
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  4
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  3
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  5
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  4
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  6
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  5
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  7
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  6
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  8
+INFO pool-1-thread-2 multi_thread.AtomicTest - test1 -  2  -  9
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  7
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  8
+INFO pool-1-thread-4 multi_thread.AtomicTest - test2 -  2  -  9
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  0
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  1
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  2
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  3
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  4
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  5
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  6
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  7
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  8
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  9
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  0
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  1
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  2
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  3
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  4
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  5
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  6
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  7
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  8
+INFO pool-1-thread-2 multi_thread.AtomicTest - test3 -  2  -  9
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  0
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  1
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  2
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  3
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  4
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  5
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  6
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  7
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  8
+INFO pool-1-thread-1 multi_thread.AtomicTest - test3 -  1  -  9
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  0
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  1
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  2
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  3
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  4
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  5
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  6
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  7
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  8
+INFO pool-1-thread-2 multi_thread.AtomicTest - test4 -  2  -  9
+INFO main multi_thread.AtomicTest - count:  4990
