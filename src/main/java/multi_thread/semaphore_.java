@@ -50,7 +50,7 @@ public class semaphore_ {
 
     public static void test(int threadnum) throws InterruptedException {
         Thread.sleep(1000);// 模拟请求的耗时操作
-        System.out.println("threadnum:" + threadnum);
+        System.out.println("thread_id" + Thread.currentThread().getName() + "   threadnum:" + threadnum);
         Thread.sleep(1000);// 模拟请求的耗时操作
     }
 }

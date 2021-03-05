@@ -23,7 +23,11 @@ public class MulThreadTest1 {
                     synchronized (self) {// 再获取 self 锁
                         System.out.println(Thread.currentThread().getName() + "  -- " + name);//打印
                         count--;
-
+                        try {
+                            Thread.sleep(1);
+                        } catch (InterruptedException e) {
+                            e.printStackTrace();
+                        }
                         self.notifyAll();// 唤醒其他线程竞争self锁，注意此时self锁并未立即释放。
                     }
                     //此时执行完self的同步块，这时self锁才释放。
