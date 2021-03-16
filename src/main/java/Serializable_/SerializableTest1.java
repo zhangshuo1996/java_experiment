@@ -132,5 +132,5 @@ public class SerializableTest1 {
 
     // TODO: 可以自定义的序列化 transient  https://www.cnblogs.com/9dragon/p/10901448.html
 
-    
+
 }
