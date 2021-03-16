@@ -63,7 +63,6 @@ public class ReadFile_ {
             }
         } while(bytes > 0);
         reader.close();
-
     }
 
 
