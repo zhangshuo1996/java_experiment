@@ -21,7 +21,8 @@ public class MulThreadTest1 {
             while (count > 0) {// 多线程并发，不能用if，必须使用while循环
                 synchronized (prev) { // 先获取 prev 锁
                     synchronized (self) {// 再获取 self 锁
-                        System.out.println(Thread.currentThread().getName() + "  -- " + name);//打印
+                        String threadName = Thread.currentThread().getName();
+                        System.out.println(threadName + "  -- " + name);//打印
                         count--;
                         try {
                             Thread.sleep(1);
