@@ -22,6 +22,9 @@ class Person {
     }
 }
 
+/**
+ * https://www.cnblogs.com/ysocean/p/6516248.html
+ */
 public class ReflectionTest1 {
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, NoSuchFieldException, InstantiationException {
         test1();
