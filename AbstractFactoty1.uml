@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>DesignPattern_.Factory_.AbstractFactory.IntelCPU</OriginalElement>
+  <nodes>
+    <node x="601.3854166666666" y="155.0">DesignPattern_.Factory_.AbstractFactory.AmdMainBoard</node>
+    <node x="383.38541666666663" y="155.0">DesignPattern_.Factory_.AbstractFactory.AbstractFactory</node>
+    <node x="612.0" y="0.0">DesignPattern_.Factory_.AbstractFactory.CPU</node>
+    <node x="726.6708333333333" y="250.0">DesignPattern_.Factory_.AbstractFactory.AmdFactory</node>
+    <node x="396.0" y="382.5">DesignPattern_.Factory_.AbstractFactory.ComputerEngineer</node>
+    <node x="820.4333333333333" y="155.0">DesignPattern_.Factory_.AbstractFactory.AmdCPU</node>
+    <node x="218.5" y="155.0">DesignPattern_.Factory_.AbstractFactory.IntelCPU</node>
+    <node x="10.5" y="155.0">DesignPattern_.Factory_.AbstractFactory.IntelMainBoard</node>
+    <node x="181.90729166666665" y="250.0">DesignPattern_.Factory_.AbstractFactory.IntelFactory</node>
+    <node x="329.0" y="0.0">DesignPattern_.Factory_.AbstractFactory.MainBoard</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AmdFactory" target="DesignPattern_.Factory_.AbstractFactory.CPU">
+      <point x="59.200000000000045" y="-17.5" />
+      <point x="859.8708333333334" y="230.0" />
+      <point x="938.9333333333333" y="230.0" />
+      <point x="938.9333333333333" y="55.0" />
+      <point x="683.5" y="55.0" />
+      <point x="32.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AbstractFactory" target="DesignPattern_.Factory_.AbstractFactory.MainBoard">
+      <point x="-49.5" y="-17.5" />
+      <point x="432.88541666666663" y="105.0" />
+      <point x="409.5" y="105.0" />
+      <point x="11.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.ComputerEngineer" target="DesignPattern_.Factory_.AbstractFactory.MainBoard">
+      <point x="-69.33333333333331" y="-17.5" />
+      <point x="433.296875" y="220.0" />
+      <point x="372.88541666666663" y="220.0" />
+      <point x="372.88541666666663" y="105.0" />
+      <point x="386.5" y="105.0" />
+      <point x="-11.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.IntelFactory" target="DesignPattern_.Factory_.AbstractFactory.AbstractFactory">
+      <point x="67.19999999999999" y="-17.5" />
+      <point x="333.10729166666664" y="230.0" />
+      <point x="416.38541666666663" y="230.0" />
+      <point x="-66.0" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.IntelFactory" target="DesignPattern_.Factory_.AbstractFactory.MainBoard">
+      <point x="-67.19999999999999" y="-17.5" />
+      <point x="198.70729166666666" y="230.0" />
+      <point x="0.0" y="230.0" />
+      <point x="0.0" y="95.0" />
+      <point x="340.5" y="95.0" />
+      <point x="-57.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.ComputerEngineer" target="DesignPattern_.Factory_.AbstractFactory.AbstractFactory">
+      <point x="0.0" y="-17.5" />
+      <point x="502.6302083333333" y="230.0" />
+      <point x="482.38541666666663" y="230.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.IntelCPU" target="DesignPattern_.Factory_.AbstractFactory.CPU">
+      <point x="0.0" y="-17.5" />
+      <point x="282.5" y="115.0" />
+      <point x="618.5" y="115.0" />
+      <point x="-32.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AmdFactory" target="DesignPattern_.Factory_.AbstractFactory.AbstractFactory">
+      <point x="-59.200000000000045" y="-17.5" />
+      <point x="741.4708333333333" y="220.0" />
+      <point x="548.3854166666666" y="220.0" />
+      <point x="66.0" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.IntelFactory" target="DesignPattern_.Factory_.AbstractFactory.IntelMainBoard">
+      <point x="-33.599999999999966" y="-17.5" />
+      <point x="232.30729166666669" y="220.0" />
+      <point x="104.5" y="220.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AmdCPU" target="DesignPattern_.Factory_.AbstractFactory.CPU">
+      <point x="0.0" y="-17.5" />
+      <point x="874.4333333333333" y="65.0" />
+      <point x="670.5" y="65.0" />
+      <point x="19.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AmdFactory" target="DesignPattern_.Factory_.AbstractFactory.MainBoard">
+      <point x="0.0" y="-17.5" />
+      <point x="800.6708333333333" y="230.0" />
+      <point x="809.9333333333333" y="230.0" />
+      <point x="809.9333333333333" y="75.0" />
+      <point x="455.5" y="75.0" />
+      <point x="57.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.ComputerEngineer" target="DesignPattern_.Factory_.AbstractFactory.CPU">
+      <point x="69.33333333333337" y="-17.5" />
+      <point x="571.9635416666667" y="230.0" />
+      <point x="779.8854166666666" y="230.0" />
+      <point x="779.8854166666666" y="85.0" />
+      <point x="657.5" y="85.0" />
+      <point x="6.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.IntelMainBoard" target="DesignPattern_.Factory_.AbstractFactory.MainBoard">
+      <point x="0.0" y="-17.5" />
+      <point x="104.5" y="105.0" />
+      <point x="363.5" y="105.0" />
+      <point x="-34.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.IntelFactory" target="DesignPattern_.Factory_.AbstractFactory.IntelCPU">
+      <point x="0.0" y="-17.5" />
+      <point x="265.90729166666665" y="230.0" />
+      <point x="282.5" y="230.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AmdFactory" target="DesignPattern_.Factory_.AbstractFactory.AmdMainBoard">
+      <point x="-29.600000000000023" y="-17.5" />
+      <point x="771.0708333333333" y="210.0" />
+      <point x="685.3854166666666" y="210.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AbstractFactory" target="DesignPattern_.Factory_.AbstractFactory.CPU">
+      <point x="49.5" y="-17.5" />
+      <point x="531.8854166666666" y="135.0" />
+      <point x="644.5" y="135.0" />
+      <point x="-6.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AmdMainBoard" target="DesignPattern_.Factory_.AbstractFactory.MainBoard">
+      <point x="0.0" y="-17.5" />
+      <point x="685.3854166666666" y="95.0" />
+      <point x="432.5" y="95.0" />
+      <point x="34.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.IntelFactory" target="DesignPattern_.Factory_.AbstractFactory.CPU">
+      <point x="33.60000000000002" y="-17.5" />
+      <point x="299.5072916666667" y="220.0" />
+      <point x="361.88541666666663" y="220.0" />
+      <point x="361.88541666666663" y="125.0" />
+      <point x="631.5" y="125.0" />
+      <point x="-19.5" y="17.5" />
+    </edge>
+    <edge source="DesignPattern_.Factory_.AbstractFactory.AmdFactory" target="DesignPattern_.Factory_.AbstractFactory.AmdCPU">
+      <point x="29.600000000000023" y="-17.5" />
+      <point x="830.2708333333334" y="220.0" />
+      <point x="874.4333333333333" y="220.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="469.5" y="142.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
